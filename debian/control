@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Bisasam.h
-Description: Bisasam font for DisplayCore
+Description: Bisasam
