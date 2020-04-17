@@ -1,2 +1,2 @@
-Bisasam.cpp libraries/DisplayCore/Bisasam
-Bisasam.h libraries/DisplayCore/Bisasam
+src libraries/DisplayCore/Bisasam
+library.properties libraries/DisplayCore/Bisasam
