@@ -1,15 +1,16 @@
-Source: libdisplaycore-font-bisasam
+Source: libcariad-font-bisasam
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-font-bisasam
+Package: libcariad-font-bisasam
+Replaces: libdisplaycore-font-bisasam
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Fonts
-Depends: libdisplaycore-core
+Depends: libcariad-core
 Provides: Bisasam.h
 Description: Bisasam

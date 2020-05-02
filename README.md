@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::Bisasam 
 
-![Bisasam](https://raw.githubusercontent.com/DisplayCore/Bisasam/master/Preview/Bisasam.png)
+![Bisasam](https://raw.githubusercontent.com/Cariad/Bisasam/master/Preview/Bisasam.png)
 
